@@ -9,8 +9,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ![](https://komarev.com/ghpvc/?username=saharsh-solanki&color=blue)
-https://saharsh-solanki.github.io/portfolio/images/deviare.jpg
-![](https://saharsh-solanki.github.io/portfolio/index.html)
+![](https://saharsh-solanki.github.io/portfolio/images/deviare.jpg)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical)
 
