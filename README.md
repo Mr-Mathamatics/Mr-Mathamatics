@@ -10,9 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=saharsh-solanki&color=blue)
 
-![](https://raw.githubusercontent.com/saharsh-solanki/portfolio/master/images/sample.svg)
-https://raw.githubusercontent.com/saharsh-solanki/portfolio/master/images/sample.svg
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh-solanki&hide=SCSS&bg_color=DEG)](https://github.com/anuraghazra/github-readme-stats)
