@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=saharsh-solanki&color=blue)
 
-![]([https://saharsh-solanki.github.io/portfolio/](https://saharsh-solanki.github.io/portfolio/index.html))
+![]([https://saharsh-solanki.github.io/portfolio/](https://saharsh-solanki.github.io/portfolio/index.html])
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical)
 
