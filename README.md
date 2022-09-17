@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=saharsh-solanki&color=blue)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh-solanki)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
