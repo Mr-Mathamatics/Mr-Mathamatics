@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/saharsh-solanki/saharsh-solanki/master/main.gif" width="1280" height="250">
 
-### Hi there 👋
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -25,6 +23,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean)
+
+### Hi there 👋
+
+#### My name is saharsh solanki i am a full stack developer . I am having knowlage of amost all the language mentioned above i am looking for contributing in open source project . I am always exited to build something intresting .
 
 
 ###
