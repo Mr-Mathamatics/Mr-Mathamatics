@@ -1,3 +1,4 @@
+[![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/?text=saharsh%20solanki&font_size=45)](https://www.adamalston.com/)
 ### Hi there 👋
 
 ### Languages
@@ -13,7 +14,6 @@
 
 ![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/?text=saharsh%20solanki&font_size=45)
 
-<img src="https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/?text=saharsh%20solanki&font_size=45" alt="Alt text" title="Optional title">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical)
 
