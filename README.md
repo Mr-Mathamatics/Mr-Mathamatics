@@ -1,4 +1,4 @@
-[![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/media/output1.gif)](https://www.adamalston.com/)
+[![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif)
 ### Hi there 👋
 
 ### Languages
