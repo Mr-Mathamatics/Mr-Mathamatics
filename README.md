@@ -12,10 +12,6 @@
 
 ![](https://komarev.com/ghpvc/?username=saharsh-solanki&color=blue)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh-solanki&hide=SCSS&bg_color=DEG)](https://github.com/anuraghazra/github-readme-stats)
-
 <a><img src="https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh-solanki&hide=SCSS,less,php&bg_color=DEG&langs_count=3"></a>
 <!--
 **saharsh-solanki/saharsh-solanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
