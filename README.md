@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/saharsh-solanki/saharsh-solanki/master/main.gif" width="1280" height="200">
+<img src="https://raw.githubusercontent.com/saharsh-solanki/saharsh-solanki/master/main2.gif" width="1280" height="250">
 
 ### Hi there 👋
 
