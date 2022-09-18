@@ -11,8 +11,9 @@
 
 ![](https://komarev.com/ghpvc/?username=saharsh-solanki&color=blue)
 
+<img src="https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/?text=saharsh%20solanki&font_size=45&font_color=red"></img>
 
-![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/?text=saharsh%20solanki&font_size=45)
+![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/?text=saharsh%20solanki&font_size=45&font_color=red)
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical)
