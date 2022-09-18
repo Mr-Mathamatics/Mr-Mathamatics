@@ -1,4 +1,4 @@
-[![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif)
+[![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif)]
 ### Hi there 👋
 
 ### Languages
@@ -13,7 +13,7 @@
 
 ![image](https://giffiles.alphacoders.com/119/119939.gif)
 
-<img src="https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif"></img>
+<img src="https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif" width="1280" height="200"></img>
 
 ![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/?text=saharsh%20solanki&font_size=45&font_color=red)
 
