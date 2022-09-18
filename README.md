@@ -1,4 +1,5 @@
-![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif)
+<img src="https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif" width="1280" height="200">
+
 ### Hi there 👋
 
 ### Languages
@@ -12,11 +13,6 @@
 ![](https://komarev.com/ghpvc/?username=saharsh-solanki&color=blue)
 
 ![image](https://giffiles.alphacoders.com/119/119939.gif)
-
-<img src="https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif" width="1280" height="200"></img>
-
-![](https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/?text=saharsh%20solanki&font_size=45&font_color=red)
-
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saharsh-solanki&show_icons=true&theme=radical)
 
