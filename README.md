@@ -1,4 +1,4 @@
-<img src="https://c9a2-2401-4900-1a5a-afdb-70ca-ff50-39be-b8ba.in.ngrok.io/gifs/generate/hello/output.gif" width="1280" height="200">
+<img src="https://raw.githubusercontent.com/saharsh-solanki/saharsh-solanki/master/main.gif" width="1280" height="200">
 
 ### Hi there 👋
 
