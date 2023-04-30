@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Mr-Mathamatics/Mr-Mathamatics/master/main.gif" width="1280" height="250">
+<img src="https://raw.githubusercontent.com/Mr-Mathamatics/Mr-Mathamatics/master/giphy.gif" width="1280" height="250">
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
